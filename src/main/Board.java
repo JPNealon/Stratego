@@ -1,3 +1,11 @@
+/*
+ * 
+ * Contributors:
+ *   - Jack Nealon
+ * 
+ * Copyright: 2025
+ */
+
 package src.main;
 import javax.swing.*;
 
@@ -8,5 +16,6 @@ public class Board{
     String name;
     JPanel targetPanel = new JPanel();  //panel to hold the target grid 
     Coordinate[] targetArr = new Coordinate[100];   //array to hold coordinate objects (TARGET GRID)
+
 
 }

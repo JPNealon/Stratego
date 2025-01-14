@@ -1,3 +1,11 @@
+/*
+ * 
+ * Contributors:
+ *   - Jack Nealon
+ * 
+ * Copyright: 2025
+ */
+
 package src.main;
 import java.util.Random;
 

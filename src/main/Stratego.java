@@ -1,12 +1,13 @@
-package src.main;
 /*
- * Final project main driver class
+ * Project main driver class
  * 
  * Contributors:
  *   - Jack Nealon
  * 
- * Copyright: 2023
+ * Copyright: 2025
  */
+
+package src.main;
 
 public class Stratego {
     public static void main(String[] args){
